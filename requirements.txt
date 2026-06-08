@@ -1,0 +1,13 @@
+torch
+numpy==1.23.5
+Pillow
+opencv-python
+transformers==4.30.2
+pyttsx3
+pygame
+ultralytics
+timm
+face-recognition
+SpeechRecognition
+cmake
+tensorflow==2.10.0

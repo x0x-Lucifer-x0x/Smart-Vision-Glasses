@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+epics/
+
+# VS Code
+.vscode/
+
+# Build / Distribution
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+.env.*
+
+# Python Wheels
+*.whl
+
+# Model Files (Large)
+*.pth
+*.pt
+*.onnx
+*.h5
+*.ckpt
+models/*.pth
+models/*.pt
+
+# Generated Media
+*.mp3
+*.wav
+*.mp4
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Testing
+.pytest_cache/
+.coverage
+
+# Misc
+*.tmp
+*.bak
